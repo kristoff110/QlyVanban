@@ -1,0 +1,14 @@
+D:\LTWeb\QlyVanBan\Model\bin\Debug\Model.dll.config
+D:\LTWeb\QlyVanBan\Model\bin\Debug\Model.dll
+D:\LTWeb\QlyVanBan\Model\bin\Debug\Model.pdb
+D:\LTWeb\QlyVanBan\Model\bin\Debug\EntityFramework.dll
+D:\LTWeb\QlyVanBan\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\LTWeb\QlyVanBan\Model\bin\Debug\PagedList.dll
+D:\LTWeb\QlyVanBan\Model\bin\Debug\PagedList.Mvc.dll
+D:\LTWeb\QlyVanBan\Model\bin\Debug\EntityFramework.xml
+D:\LTWeb\QlyVanBan\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\LTWeb\QlyVanBan\Model\bin\Debug\PagedList.xml
+D:\LTWeb\QlyVanBan\Model\bin\Debug\PagedList.Mvc.xml
+D:\LTWeb\QlyVanBan\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\LTWeb\QlyVanBan\Model\obj\Debug\Model.dll
+D:\LTWeb\QlyVanBan\Model\obj\Debug\Model.pdb
